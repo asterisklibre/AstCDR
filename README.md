@@ -2,7 +2,7 @@
   <content>
 # AstCDR
 
-Projeto AstCDR Biletes da central Asterisk
+Projeto --> Biletes da Central Asterisk
 
 ## Installation
 
@@ -22,7 +22,7 @@ Linux
 
 ## History
 
-Criado o projeto pela  @FALbr>
+Criado o projeto pela  @FAL<br>
 
 
 ## Credits
